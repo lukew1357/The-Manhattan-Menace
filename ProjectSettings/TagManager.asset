@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - DataHandler
+  - bullet
+  - enemyCollider
+  - Enemy
+  - coin
   layers:
   - Default
   - TransparentFX
